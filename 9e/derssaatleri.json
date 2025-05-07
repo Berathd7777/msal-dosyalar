@@ -2,52 +2,52 @@
   "sınıf": "9/E",
   "günler": {
     "Pazartesi": [
-      "Âdâb-ı Muâşeret",
-      "Din Kültürü",
-      "Rehberlik",
-      "Türk Sosyal Hayatında Aile",
-      "Beden Eğitimi",
-      "Beden Eğitimi",
-      "Almanca",
-      "Almanca"
-    ],
-    "Salı": [
-      "Coğrafya",
-      "Coğrafya",
-      "Matematik",
-      "Matematik",
-      "Din Kültürü",
-      "Türk Dili ve Edebiyatı",
-      "İngilizce",
-      "İngilizce"
-    ],
-    "Çarşamba": [
-      "Türk Dili ve Edebiyatı",
-      "Türk Dili ve Edebiyatı",
-      "Biyoloji",
-      "Biyoloji",
-      "Kimya",
-      "Kimya",
-      "Görsel S. | Müzik",
-      "Görsel S. | Müzik"
-    ],
-    "Perşembe": [
       "Astronomi ve Uzay Bilimleri",
+      "Türk Dili ve Edebiyatı",
+      "Coğrafya",
+      "Coğrafya",
       "Türk Sosyal Hayatında Aile",
-      "Tarih",
-      "Tarih",
-      "İngilizce",
-      "İngilizce",
+      "Sağlık Bilgisi ve Trafik Kültürü",
       "Matematik",
       "Matematik"
     ],
+    "Salı": [
+      "Türk Dili ve Edebiyatı",
+      "Türk Dili ve Edebiyatı",
+      "Türk Sosyal Hayatında Aile",
+      "Din Kültürü",
+      "Tarih",
+      "Tarih",
+      "Almanca",
+      "Almanca"
+    ],
+    "Çarşamba": [
+      "Fizik",
+      "Fizik",
+      "Görsel S. | Müzik",
+      "Görsel S. | Müzik",
+      "Din Kültürü",
+      "Âdâb-ı Muâşeret",
+      "Rehberlik",
+      "Peygamberimizin Hayatı"
+    ],
+    "Perşembe": [
+      "Matematik",
+      "Matematik",
+      "İngilizce",
+      "İngilizce",
+      "Türk Dili ve Edebiyatı",
+      "Türk Dili ve Edebiyatı",
+      "Kimya",
+      "Kimya"
+    ],
     "Cuma": [
-      "Fizik",
-      "Fizik",
-      "Peygamberimizin Hayatı",
-      "Türk Dili ve Edebiyatı",
-      "Türk Dili ve Edebiyatı",
-      "Sağlık Bilgisi ve Trafik Kültürü",
+      "İngilizce",
+      "İngilizce",
+      "Biyoloji",
+      "Biyoloji",
+      "Beden Eğitimi",
+      "Beden Eğitimi",
       "Matematik",
       "Matematik"
     ]
