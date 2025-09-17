@@ -4,41 +4,6 @@
       "gunAdi": "Pazartesi",
       "dersler": [
         {
-          "dersAdi": "Matematik",
-          "saat": "08:10 - 09:45",
-          "ogretmen": "Bahir Ömeroğlu"
-        },
-        {
-          "dersAdi": "Kimya",
-          "saat": "09:55 - 11:25",
-          "ogretmen": "Ayla Zorlu"
-        },
-        {
-          "dersAdi": "Din Kültürü ve Ahlak Bilgisi",
-          "saat": "11:35 - 12:15",
-          "ogretmen": "Rukiye Kekliktepe"
-        },
-        {
-          "type": "ara",
-          "aciklama": "Öğle Arası",
-          "saat": "12:15 - 13:00"
-        },
-        {
-          "dersAdi": "Türk Dili ve Edebiyatı",
-          "saat": "13:00 - 13:40",
-          "ogretmen": "Esabil Boran"
-        },
-        {
-          "dersAdi": "Felsefe",
-          "saat": "13:50 - 15:20",
-          "ogretmen": "Şeyhmus Yeşilağaç"
-        }
-      ]
-    },
-    "Salı": {
-      "gunAdi": "Salı",
-      "dersler": [
-        {
           "dersAdi": "Spor Eğitimi",
           "saat": "08:10 - 08:50",
           "ogretmen": "Ahmet Tuncer"
@@ -75,8 +40,8 @@
         }
       ]
     },
-    "Çarşamba": {
-      "gunAdi": "Çarşamba",
+    "Salı": {
+      "gunAdi": "Salı",
       "dersler": [
         {
           "dersAdi": "Fizik",
@@ -110,23 +75,23 @@
         }
       ]
     },
-    "Perşembe": {
-      "gunAdi": "Perşembe",
+    "Çarşamba": {
+      "gunAdi": "Çarşamba",
       "dersler": [
         {
-          "dersAdi": "İngilizce",
+          "dersAdi": "Türk Dili ve Edebiyatı",
           "saat": "08:10 - 09:45",
-          "ogretmen": "Ömür Algan"
-        },
-        {
-          "dersAdi": "Tarih",
-          "saat": "09:55 - 11:25",
-          "ogretmen": "Naciye Çelik Özcan"
+          "ogretmen": "Esabil Boran"
         },
         {
           "dersAdi": "Biyoloji",
-          "saat": "11:35 - 12:15",
+          "saat": "09:55 - 11:25",
           "ogretmen": "Levent Akel"
+        },
+        {
+          "dersAdi": "Coğrafya",
+          "saat": "11:35 - 12:15",
+          "ogretmen": "Semih Ceylan"
         },
         {
           "type": "ara",
@@ -134,19 +99,19 @@
           "saat": "12:15 - 13:00"
         },
         {
-          "dersAdi": "Biyoloji",
+          "dersAdi": "Coğrafya",
           "saat": "13:00 - 13:40",
-          "ogretmen": "Levent Akel"
+          "ogretmen": "Semih Ceylan"
         },
         {
-          "dersAdi": "Beden Eğitimi ve Spor",
+          "dersAdi": "Bilişim Teknolojileri ve Yazılım",
           "saat": "13:50 - 15:20",
-          "ogretmen": "Ahmet Tuncer"
+          "ogretmen": "Güllü Dilek Karakuş"
         }
       ]
     },
-    "Cuma": {
-      "gunAdi": "Cuma",
+    "Perşembe": {
+      "gunAdi": "Perşembe",
       "dersler": [
         {
           "dersAdi": "İngilizce",
@@ -174,9 +139,44 @@
           "ogretmen": "Rukiye Kekliktepe"
         },
         {
-          "dersAdi": "Bilişim Teknolojileri ve Yazılım",
+          "dersAdi": "Biyoloji",
           "saat": "13:50 - 15:20",
-          "ogretmen": "Güllü Dilek Karakuş"
+          "ogretmen": "Levent Akel"
+        }
+      ]
+    },
+    "Cuma": {
+      "gunAdi": "Cuma",
+      "dersler": [
+        {
+          "dersAdi": "Matematik",
+          "saat": "08:10 - 09:45",
+          "ogretmen": "Bahir Ömeroğlu"
+        },
+        {
+          "dersAdi": "Seçmeli Türk Düşünce Tarihi",
+          "saat": "09:55 - 11:25",
+          "ogretmen": "Şeyhmus Yeşilağaç"
+        },
+        {
+          "dersAdi": "Biyoloji",
+          "saat": "11:35 - 12:15",
+          "ogretmen": "Levent Akel"
+        },
+        {
+          "type": "ara",
+          "aciklama": "Öğle Arası",
+          "saat": "12:15 - 13:00"
+        },
+        {
+          "dersAdi": "Biyoloji",
+          "saat": "13:00 - 13:40",
+          "ogretmen": "Levent Akel"
+        },
+        {
+          "dersAdi": "Fizik",
+          "saat": "13:50 - 15:20",
+          "ogretmen": "Serma Buko"
         }
       ]
     }
