@@ -1,11 +1,10 @@
-"UPDATE"
 {
   "dersProgrami": {
     "Pazartesi": {
       "gunAdi": "Pazartesi",
       "dersler": [
         {
-          "dersAdi": "Matematik UPDATE",
+          "dersAdi": "UPDATE",
           "saat": "08:10 - 08:50",
           "ogretmen": "Bahir Ömeroğlu"
         },
