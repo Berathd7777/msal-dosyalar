@@ -25,27 +25,27 @@
         },
         {
           "dersAdi": "Din Kültürü ve Ahlak Bilgisi",
-          "saat": "12:00 - 12:40",
+          "saat": "11:30 - 12:10",
           "ogretmen": "Nalan Ay"
         },
         {
           "type": "ara",
           "aciklama": "Öğle Arası",
-          "saat": "11:20 - 12:00"
+          "saat": "12:10 - 13:00"
         },
         {
           "dersAdi": "Türk Dili ve Edebiyatı",
-          "saat": "12:50 - 13:30",
+          "saat": "13:00 - 13:40",
           "ogretmen": "Esabil Boran"
         },
         {
           "dersAdi": "Felsefe",
-          "saat": "13:40 - 14:20",
+          "saat": "13:50 - 14:30",
           "ogretmen": "Şeyhmus Yeşilağaç"
         },
         {
           "dersAdi": "Felsefe",
-          "saat": "14:30 - 15:10",
+          "saat": "14:40 - 15:20",
           "ogretmen": "Şeyhmus Yeşilağaç"
         }
       ]
@@ -75,27 +75,27 @@
         },
         {
           "dersAdi": "Matematik",
-          "saat": "12:00 - 12:40",
+          "saat": "11:30 - 12:10",
           "ogretmen": "Bahir Ömeroğlu"
         },
         {
           "type": "ara",
           "aciklama": "Öğle Arası",
-          "saat": "11:20 - 12:00"
+          "saat": "12:10 - 13:00"
         },
         {
           "dersAdi": "Matematik",
-          "saat": "12:50 - 13:30",
+          "saat": "13:00 - 13:40",
           "ogretmen": "Bahir Ömeroğlu"
         },
         {
           "dersAdi": "Almanca",
-          "saat": "13:40 - 14:20",
+          "saat": "13:50 - 14:30",
           "ogretmen": "Deniz Uyanık"
         },
         {
           "dersAdi": "Almanca",
-          "saat": "14:30 - 15:10",
+          "saat": "14:40 - 15:20",
           "ogretmen": "Deniz Uyanık"
         }
       ]
@@ -125,27 +125,27 @@
         },
         {
           "dersAdi": "Coğrafya",
-          "saat": "12:00 - 12:40",
+          "saat": "11:30 - 12:10",
           "ogretmen": "Semih Ceylan"
         },
         {
           "type": "ara",
           "aciklama": "Öğle Arası",
-          "saat": "11:20 - 12:00"
+          "saat": "12:10 - 13:00"
         },
         {
           "dersAdi": "Coğrafya",
-          "saat": "12:50 - 13:30",
+          "saat": "13:00 - 13:40",
           "ogretmen": "Semih Ceylan"
         },
         {
           "dersAdi": "Matematik",
-          "saat": "13:40 - 14:20",
+          "saat": "13:50 - 14:30",
           "ogretmen": "Bahir Ömeroğlu"
         },
         {
           "dersAdi": "Matematik",
-          "saat": "14:30 - 15:10",
+          "saat": "14:40 - 15:20",
           "ogretmen": "Bahir Ömeroğlu"
         }
       ]
@@ -166,36 +166,36 @@
         {
           "dersAdi": "Tarih",
           "saat": "09:50 - 10:30",
-          "ogretmen": "Ayşe Demir"
+          "ogretmen": "Naciye Çelik"
         },
         {
           "dersAdi": "Tarih",
           "saat": "10:40 - 11:20",
-          "ogretmen": "Ayşe Demir"
+          "ogretmen": "Naciye Çelik"
         },
         {
           "dersAdi": "Biyoloji",
-          "saat": "12:00 - 12:40",
+          "saat": "11:30 - 12:10",
           "ogretmen": "Levent Akel"
         },
         {
           "type": "ara",
           "aciklama": "Öğle Arası",
-          "saat": "11:20 - 12:00"
+          "saat": "12:10 - 13:00"
         },
         {
           "dersAdi": "Biyoloji",
-          "saat": "12:50 - 13:30",
+          "saat": "13:00 - 13:40",
           "ogretmen": "Levent Akel"
         },
         {
           "dersAdi": "Beden Eğitimi ve Spor",
-          "saat": "13:40 - 14:20",
+          "saat": "13:50 - 14:30",
           "ogretmen": "Ahmet Tuncer"
         },
         {
           "dersAdi": "Beden Eğitimi ve Spor",
-          "saat": "14:30 - 15:10",
+          "saat": "14:40 - 15:20",
           "ogretmen": "Ahmet Tuncer"
         }
       ]
@@ -225,27 +225,27 @@
         },
         {
           "dersAdi": "Rehberlik ve Yönlendirme",
-          "saat": "12:00 - 12:40",
+          "saat": "11:30 - 12:10",
           "ogretmen": "Bahir Ömeroğlu"
         },
         {
           "type": "ara",
           "aciklama": "Öğle Arası",
-          "saat": "11:20 - 12:00"
+          "saat": "12:10 - 13:00"
         },
         {
           "dersAdi": "Din Kültürü ve Ahlak Bilgisi",
-          "saat": "12:50 - 13:30",
+          "saat": "13:00 - 13:40",
           "ogretmen": "Nalan Ay"
         },
         {
           "dersAdi": "Bilişim Teknolojileri ve Yazılım",
-          "saat": "13:40 - 14:20",
+          "saat": "13:50 - 14:30",
           "ogretmen": "Güllü Dilek Karakuş"
         },
         {
           "dersAdi": "Bilişim Teknolojileri ve Yazılım",
-          "saat": "14:30 - 15:10",
+          "saat": "14:40 - 15:20",
           "ogretmen": "Güllü Dilek Karakuş"
         }
       ]
