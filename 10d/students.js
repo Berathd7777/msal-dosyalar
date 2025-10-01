@@ -1,10 +1,10 @@
 const students = [
+    { no: 1164, name: "Sudenur Sağsız", gender: "Kız" },
     { no: 5624, name: "Berfin Yalçın", gender: "Kız" },
     { no: 6002, name: "Büşra Tetik", gender: "Kız" },
     { no: 6018, name: "Ramazan Miran İlhan", gender: "Erkek" },
     { no: 6135, name: "Firdevs Begüm Ersoy", gender: "Kız" },
     { no: 6203, name: "Ümit Arda Özbek", gender: "Erkek" },
-    { no: 6204, name: "Emine Tuğba Uysal", gender: "Kız" },
     { no: 6205, name: "Kadir Cahit Alcan", gender: "Erkek" },
     { no: 6206, name: "Elif Fatma Yurtçiçek", gender: "Kız" },
     { no: 6207, name: "Seher Savuş", gender: "Kız" },
