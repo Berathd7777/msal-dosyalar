@@ -1,4 +1,5 @@
 const students = [
+    { no: 802, name: "Pelin Turğut", gender: "Kız" },
     { no: 1164, name: "Sudenur Sağsız", gender: "Kız" },
     { no: 5624, name: "Berfin Yalçın", gender: "Kız" },
     { no: 6002, name: "Büşra Tetik", gender: "Kız" },
