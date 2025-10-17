@@ -35,7 +35,6 @@ const students = [
     { no: 6326, name: "İrem Eşki", gender: "Kız" },
     { no: 6330, name: "Eda Altundaş", gender: "Kız" },
     { no: 6334, name: "Damla Solmaz", gender: "Kız" },
-    { no: 6335, name: "Meys Bekke", gender: "Kız" },
     { no: 6336, name: "Yagut Guliyeva", gender: "Kız" },
     { no: 6338, name: "Melek Alalı", gender: "Kız" },
     { no: 6347, name: "Ela Aslan", gender: "Kız" }
